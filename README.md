@@ -1,3 +1,3 @@
 # ejemplo
 ejemplo
-aqui se escriben kis canbuis qyes vayan hacer
+aqui se escriben los cambios que se vayan hacer
